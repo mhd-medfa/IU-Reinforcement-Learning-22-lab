@@ -12,6 +12,10 @@ gdown -q https://drive.google.com/uc?id=1wYEhsBbh3hc2tek9-Afj9BHSa7_WJkV8
 # wget -q http://www.atarimania.com/roms/Roms.rar
 
 pip install -q unrar
+apt install python-opengl
+apt install ffmpeg
+apt install xvfb
+pip install pyvirtualdisplay
 mkdir ./roms
 unrar x Roms.rar ./roms > /dev/null 2>&1
 python -m atari_py.import_roms ./roms > /dev/null 2>&1
