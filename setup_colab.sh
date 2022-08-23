@@ -12,6 +12,8 @@ gdown -q https://drive.google.com/uc?id=1wYEhsBbh3hc2tek9-Afj9BHSa7_WJkV8
 # wget -q http://www.atarimania.com/roms/Roms.rar
 
 pip install -q unrar
+pip install gym[all]
+pip install stable-baselines3[extra]
 apt install python-opengl
 apt install ffmpeg
 apt install xvfb
