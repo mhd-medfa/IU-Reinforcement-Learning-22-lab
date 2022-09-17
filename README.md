@@ -17,8 +17,14 @@ By the end of this lab you will understand how Markov Reward Process and Markov 
 
 
 
-### References
+## References
 
+### Books
+*  [Reinforcement learning: an introduction - The MIT Press (1998)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+*  [Artificial Intelligence: A Modern Approach, 4th US ed.](http://aima.cs.berkeley.edu/)
+
+
+### Online materials
 * https://hadovanhasselt.com/2016/01/12/ucl-course/
 * https://github.com/huggingface/deep-rl-class
 * https://github.com/nicknochnack/ReinforcementLearningCourse
