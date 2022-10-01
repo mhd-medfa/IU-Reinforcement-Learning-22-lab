@@ -16,8 +16,10 @@ In this lab you will implement several exploration strategies for simplest probl
 By the end of this lab you will understand how Markov Reward Process and Markov Decision Process work. Also you will apply the direct solution to find the optimal policy.
 
 ## Week04 - Dynamic Programming [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t2y5UXvHNhCVZIb9AIgcVeUqS4DAkXlE?usp=sharing)
-Policy Iteration and Value Iteration algorithms
+Policy Iteration and Value Iteration algorithms.
 
+## Week05 - Model-Free Reinforcement Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSRH7VuTPQa76sv0_gfGVfAot3iErQ4O?usp=sharing)
+Monte Carlo for Prediction.
 ## References
 
 ### Books
