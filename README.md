@@ -18,8 +18,13 @@ By the end of this lab you will understand how Markov Reward Process and Markov 
 ## Week04 - Dynamic Programming [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t2y5UXvHNhCVZIb9AIgcVeUqS4DAkXlE?usp=sharing)
 Policy Iteration and Value Iteration algorithms.
 
-## Week05 - Model-Free Reinforcement Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSRH7VuTPQa76sv0_gfGVfAot3iErQ4O?usp=sharing)
+## Week05 - Model-Free Reinforcement Learning (MC Prediction) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eSRH7VuTPQa76sv0_gfGVfAot3iErQ4O?usp=sharing)
 Monte Carlo for Prediction.
+
+## Week06 - Model-Free Reinforcement Learning  (TD Prediction) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vRalQMUPCsKWeeek7ICY6_rYVagpXPMO?usp=sharing)
+Temporal Difference Prediction
+
+
 ## References
 
 ### Books
