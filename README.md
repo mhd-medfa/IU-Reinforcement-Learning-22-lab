@@ -24,6 +24,8 @@ Monte Carlo for Prediction.
 ## Week06 - Model-Free Reinforcement Learning  (TD Prediction) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vRalQMUPCsKWeeek7ICY6_rYVagpXPMO?usp=sharing)
 Temporal Difference Prediction
 
+## Week07 - Model-Free Reinforcement Learning  (Model-Free Control) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ax2_J8saRLV2_psg0vOyNcEyBvr5w6ev?usp=sharing)
+By the end of this lab you will understand the difference between Model-Free Prediction and Model-Free Control and you will be familiar with On-Policy vs Off-Policy Learning, and you will implement SARSA & Q-Learning algorithms from scratch.
 
 ## References
 
